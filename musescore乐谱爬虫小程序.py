@@ -8,6 +8,7 @@ src="https://musescore.com/static/musescore/scoredata/gen/7/2/0/5985027/fc95d818
 3、复制上面的链接，粘贴到代码url处，注意改写形式；
 4、运行程序，等待；
 5、检查E盘根目录下文件，完毕。
+（另外，想保存合并成pdf可搜索在线工具）
 '''
 
 #注意为改成score_{}.svg，并删去末尾无关的东西
